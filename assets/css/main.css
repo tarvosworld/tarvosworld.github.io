@@ -231,11 +231,11 @@ label {
 }
 
 .theme-bg {
-    background: #0a78bf;
+    background: #41af5a;
 }
 
 .theme-bg2 {
-    background: #23bae4;
+    background: #ffc107;
 }
 
 /*--
@@ -6857,7 +6857,7 @@ table.table th, table.table td {
 }
 .contact-area .c-box {
     position: relative;
-    background: #1d304f;
+    background: #007bff;
     padding: 30px;
 }
 .contact-area .c-box a {
