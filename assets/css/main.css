@@ -4993,7 +4993,7 @@ table.table th, table.table td {
 .history-area-03::before {
     content: "";
     position: absolute;
-    background: url(https://www.sologixenergy.com/assets/img/bg/map-bg2.html);
+    background: url(https://www.Tarvosenergy.com/assets/img/bg/map-bg2.html);
     width: 1875px;
     height: 774px;
     left: 0;
@@ -8959,7 +8959,7 @@ input.main-search-input:-ms-input-placeholder {
 .plan::before {
     content: "";
     position: absolute;
-    background: url(https://www.sologixenergy.com/assets/img/shape/plan-shape8.html) no-repeat;
+    background: url(https://www.Tarvosenergy.com/assets/img/shape/plan-shape8.html) no-repeat;
     width: 302px;
     height: 313px;
     left: 0;
@@ -8982,7 +8982,7 @@ input.main-search-input:-ms-input-placeholder {
     }
 }
 .plan:hover::before {
-    background: url(https://www.sologixenergy.com/assets/img/shape/plan-shape9.html) no-repeat;
+    background: url(https://www.Tarvosenergy.com/assets/img/shape/plan-shape9.html) no-repeat;
 }
 @media (max-width: 767px) {
     .plan:hover::before {
